@@ -6,9 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---  
-   
-    
-ABOUT ME - RESEARCH EXPERIENCE 🌊
+  
+  
+  
+  
+  
+  
+ABOUT ME 🌊
 ======
 - I have earned my BSc and Integrated Master of Engineering (MEng) in [Electrical Engineering and Computer Engineering (ECE)](https://www.ece.tuc.gr/en/home) from the [Technical University of Crete (TUC)](https://www.tuc.gr/en/home). 
 - I am currently enrolled in the joint [Neuroscience PhD program of UZH/ETH](https://www.neuroscience.uzh.ch/en.html) and working towards my PhD thesis in the interdisciplinary field of Neuro-AI (intersection of Neuroscience and Artificial Intelligence) and Epilepsy research. 
