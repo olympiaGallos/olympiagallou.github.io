@@ -24,7 +24,7 @@ author:
   avatar           : "cropped_image_web.png"
   name             : "Olympia"
   #pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer engineer turned PhD neuroscience researcher. Currently exploring the neuromorphic world 🧠"
   location         : "Zurich, Switzerland"
   employer         : "University of Zurich"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   #goodreads        : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/olympia-gallou/"
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
