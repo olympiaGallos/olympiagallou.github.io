@@ -13,7 +13,7 @@ ABOUT ME - RESEARCH EXPERIENCE 🌊
 - I am currently enrolled in the joint [Neuroscience PhD program of UZH/ETH](https://www.neuroscience.uzh.ch/en.html) and working towards my PhD thesis in the interdisciplinary field of Neuro-AI (intersection of Neuroscience and Artificial Intelligence) and Epilepsy research. 
 - I am working at the [Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html), [UZH](https://www.uzh.ch/en.html) and [ETH](https://ethz.ch/en.html) Zurich, in the [Neuromorphic Cognitive Systems (NCS)](https://www.ini.uzh.ch/en/research/groups/ncs.html) group, supervisor: Giacomo Indiveri.
 - On my way to become a neuromorph 🧠 and translate my skills to the development of neuromorphic algorithms that tackle pressing biomedical challenges.
-- I'm highly interested in Applied Machine Learning and data-driven tools that can transform how we understand and treat biomedical conditions.
+- I am highly interested in Applied Machine Learning and data-driven tools that can transform how we understand and treat biomedical conditions.
 - My master thesis titled "Delineating the Epileptogenic Zone by Accurately Determining the High Frequency Oscillation (HFO) Area using Classification of the Extracted Features" introduced me to epileptic biomarkers, EEG analysis and involved feature engineering and supervised machine learning algorithms. 
 
 A LITTLE BIT MORE ABOUT ME ⛹🏻‍♀️
@@ -25,6 +25,9 @@ A LITTLE BIT MORE ABOUT ME ⛹🏻‍♀️
 
 GET IN TOUCH 📬
 ===
-Email: olympia@ini.uzh.ch, olympiagallou@gmail.com
-Linkedin: https://www.linkedin.com/in/olympia-gallou/ 
+- Email: olympia@ini.uzh.ch, olympiagallou@gmail.com
+- Linkedin: https://www.linkedin.com/in/olympia-gallou/ 
 
+COLLABORATIONS AND PROJECTS FOR BACHELOR/MASTER STUDENTS 🦾
+===
+Feel free to contact me if you are interested in spiking neural networks, neuromorphic edge computing, brain computer interfaces, wearable biomedical devices, learning algorithms, etc. I'm always eager to hear new ideas and feedback and open to collaborations. Also, please reach out if you would like to do a (semester) project or your thesis in our group/with me! 

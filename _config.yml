@@ -29,25 +29,16 @@ author:
   employer         : "University of Zurich"
   uri              : # URL
   email            : "olympiagallou@gmail.com" 
-
-  # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=IMRrI3AAAAAJ&hl=en"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8022-8379"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     : # URL
-
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
   github           : "olympiaGallos"
-  
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
   #facebook         : # Username
   #goodreads        : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/olympia-gallou/"
+  linkedin         : "https://www.linkedin.com/in/olympia-gallou/"    
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
@@ -62,6 +53,16 @@ author:
   #xing             : # Username
   #youtube          : # Username
   #zhihu            : # URL
+
+  # Academic websites
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=IMRrI3AAAAAJ&hl=en"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8022-8379"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+
+
+  
 
 
 # Site Settings
