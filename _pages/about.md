@@ -29,7 +29,7 @@ redirect_from:
 ## GET IN TOUCH 📬
 
 - Email: olympia@ini.uzh.ch, olympiagallou@gmail.com
-- Linkedin: https://www.linkedin.com/in/olympia-gallou/ 
+- Linkedin: [here](https://www.linkedin.com/in/olympia-gallou/)
   
 ## COLLABORATIONS & STUDENT PROJECTS 🦾
 
