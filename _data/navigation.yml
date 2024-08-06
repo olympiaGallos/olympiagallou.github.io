@@ -7,8 +7,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
     
   - title: "CV"
     url: /files/cv_olympia_2024.pdf
