@@ -20,10 +20,11 @@ redirect_from:
   
 # A LITTLE BIT MORE ABOUT ME ⛹🏻‍♀️
 
+- 🇬🇷 I am from Greece and have spent nearly all my life in the 2 biggest greek islands, always close to the sea💙. I grew up in Chalkida-Evoia Island, and moved to Chania on Crete for my studies at 18y. I spent nearly six unforgettable years there. During late-covid period, when I turned 25, I embarked on a new adventure and moved to Switzerland🇨🇭. After a short-term internship period in Lausanne, I transitioned into my PhD journey in Zurich (#noregrets). Though I miss the sea, the rivers and lakes here offer their own charm. And of course... it's time to see mountains (Mountains, Gandalf!)⛰🧗🏔
 - 🎸🎼 I love arts in general but above all playing music and singing.
 - 🏀 I am a big fan of basketball and used to play since childhood!
 - 📸 Wherever I go, I make sure to capture each moment through my lenses, ensuring that every little experience is immortalized. Photography is another long-lasting passion of mine that also goes hand in hand with traveling.
-- 🏔 Living in Switzerland has helped me to indulge more in nature and hiking in my free time.
+- 🌿 Living in Switzerland has helped me to indulge more in nature and hiking in my free time.
    
 ## GET IN TOUCH 📬
 
