@@ -8,7 +8,6 @@ redirect_from:
 ---  
   
   
-  
 # ABOUT ME 🌊
 
 - I have earned my BSc and Integrated Master of Engineering (MEng) in [Electrical Engineering and Computer Engineering (ECE)](https://www.ece.tuc.gr/en/home) from the [Technical University of Crete (TUC)](https://www.tuc.gr/en/home). 
